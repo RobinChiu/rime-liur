@@ -196,7 +196,7 @@ phonetic_reverse_lookup:
     - xform/^/ {
     - xform/$/}/
 
-punctuator:
+# punctuator:
 #  import_preset: default
 #  import_preset: alternative
 
